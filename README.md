@@ -10,8 +10,8 @@ Load *RUN_THIS_FILE.m* under Matlab.  Edit the number *total_run* to reflect you
 
 ## Environment
 The code was developed and tested on
-Matlab 2019a
-ImageJ2
+- Matlab 2019a
+- ImageJ2
 
 ## License
 Free academic use.
